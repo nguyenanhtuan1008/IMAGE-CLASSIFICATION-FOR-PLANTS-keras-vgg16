@@ -1,7 +1,7 @@
 # keras-vgg16-training-and-inference-plants-dataset
 
 ## Goal:
-training and inference for plants dataset using keras vgg16 trained model
+Training and inference for plants dataset using keras vgg16 trained model
 
 ## Just for the record...
 This is the Keras model of the 16-layer network used to classify images of 3 different kind of vegetables (pumpkin, tomato, watermelon)
